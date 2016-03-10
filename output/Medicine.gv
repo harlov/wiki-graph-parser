@@ -1,0 +1,89 @@
+digraph {
+	18957 [label=Medicine]
+	15361056 [label="Medical specialty"]
+		18957 -> 15361056
+	45599 [label=Surgery]
+		18957 -> 45599
+	43684552 [label="Preoperative care"]
+		45599 -> 43684552
+	14970862 [label="History of surgery|Prehistoric medicine|History of general anesthesia"]
+		45599 -> 14970862
+	2839537 [label="Internal Medicine"]
+		18957 -> 2839537
+	2407129 [label="Medical education|Medical school"]
+		18957 -> 2407129
+	465584 [label="Medical school"]
+		2407129 -> 465584
+	25480777 [label="Medical school in Uganda"]
+		2407129 -> 25480777
+	11982022 [label="Medical school in Canada"]
+		2407129 -> 11982022
+	11945311 [label="Medical school in the United States"]
+		2407129 -> 11945311
+	4905614 [label="Medical education in Hong Kong"]
+		2407129 -> 4905614
+	3222584 [label="Medical college in India"]
+		2407129 -> 3222584
+	28903549 [label="Medical school in Pakistan"]
+		2407129 -> 28903549
+	11996107 [label="List of medical schools in the Philippines|Medical education in the Philippines"]
+		2407129 -> 11996107
+	30026259 [label="Medical school in France"]
+		2407129 -> 30026259
+	1975218 [label="Medical school in the United Kingdom"]
+		2407129 -> 1975218
+	31292414 [label="Bullying in medicine"]
+		2407129 -> 31292414
+	237248 [label="Medical ethics"]
+		18957 -> 237248
+	436376 [label="Primum non nocere"]
+		237248 -> 436376
+	248256 [label="Principle of double effect"]
+		237248 -> 248256
+	9587 [label=Euthanasia]
+		237248 -> 9587
+	50355 [label="Informed consent"]
+		237248 -> 50355
+	353859 [label=Confidentiality]
+		237248 -> 353859
+	52502 [label="Nobel Prize in Physiology or Medicine"]
+		18957 -> 52502
+	19793244 [label="List of Nobel laureates in Physiology or Medicine"]
+		52502 -> 19793244
+	1528075 [label="Nobel Prize controversies"]
+		52502 -> 1528075
+	58960 [label="History of medicine|Timeline of medicine and medical technology"]
+		18957 -> 58960
+	14970862 [label="Prehistoric medicine"]
+		58960 -> 14970862
+	2584146 [label="Ancient Egyptian medicine"]
+		58960 -> 2584146
+	7651709 [label="Ayurveda|Unani|Siddha medicine"]
+		58960 -> 7651709
+	5992 [label="Traditional Chinese medicine"]
+		58960 -> 5992
+	13979124 [label="Medicine in ancient Greece"]
+		58960 -> 13979124
+	5989657 [label="Medicine in ancient Rome|Medical community of ancient Rome"]
+		58960 -> 5989657
+	2106879 [label="Byzantine medicine|Medicine in the medieval Islamic world"]
+		58960 -> 2106879
+	2106879 [label="Medicine in the medieval Islamic world"]
+		58960 -> 2106879
+	482938 [label="Medieval medicine of Western Europe"]
+		58960 -> 482938
+	14457458 [label="Women in medicine"]
+		58960 -> 14457458
+	463734 [label="Public health"]
+		58960 -> 463734
+	17163431 [label="History of malaria"]
+		58960 -> 17163431
+	38031963 [label="Medieval medicine"]
+		58960 -> 38031963
+	14471564 [label="Outline of medicine|Outline of health"]
+		18957 -> 14471564
+	700822 [label="Lists of diseases|List of disorders"]
+		14471564 -> 700822
+	957018 [label="List of drugs"]
+		14471564 -> 957018
+}
