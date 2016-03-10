@@ -1,7 +1,7 @@
 import asyncio
 import sys
 
-from wiki_api import WikiGraph
+from wiki_graph import WikiGraph
 
 if len(sys.argv) < 2:
     sys.exit("provide input article!")
