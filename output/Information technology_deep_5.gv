@@ -1,0 +1,470 @@
+digraph {
+	36674345 [label="Information technology"]
+	13636 [label="History of computing hardware"]
+		36674345 -> 13636
+	28174 [label="Data storage device"]
+		36674345 -> 28174
+	4168072 [label="Information ethics"]
+		36674345 -> 4168072
+	8377 [label=Database]
+		36674345 -> 8377
+	7593 [label=Calculator]
+		13636 -> 7593
+	4916098 [label="Database machine"]
+		8377 -> 4916098
+	1040387 [label="Database design"]
+		8377 -> 1040387
+	531686 [label="Manchester Small-Scale Experimental Machine"]
+		13636 -> 531686
+	12289014 [label="Transistor computer"]
+		13636 -> 12289014
+	432897 [label="Mechanical calculator"]
+		7593 -> 432897
+	23968131 [label="NoSQL|NewSQL"]
+		8377 -> 23968131
+	1271 [label="Analytical Engine"]
+		13636 -> 1271
+	2428 [label="Analog computer"]
+		13636 -> 2428
+	264051 [label="History of computing hardware (1960s–present)|History of general-purpose CPUs"]
+		13636 -> 264051
+	1040380 [label="Logical schema"]
+		1040387 -> 1040380
+	8640 [label="Database normalization"]
+		1040387 -> 8640
+	37704882 [label="Key-value database"]
+		23968131 -> 37704882
+	15002414 [label="Document-oriented database|XML database"]
+		23968131 -> 15002414
+	10973690 [label="Database model"]
+		8377 -> 10973690
+	4689778 [label="Database security"]
+		8377 -> 4689778
+	4452966 [label="Database tuning"]
+		8377 -> 4452966
+	6229 [label="Colossus computer|ENIAC"]
+		13636 -> 6229
+	4032622 [label="Materialized view"]
+		8377 -> 4032622
+	35855099 [label="Outline of databases"]
+		8377 -> 35855099
+	24799509 [label="Graph database"]
+		23968131 -> 24799509
+	5752086 [label="Database replication"]
+		8377 -> 5752086
+	3695788 [label="Programmable calculator"]
+		7593 -> 3695788
+	533867 [label=Backup]
+		8377 -> 533867
+	209503 [label="Computer data storage|Database engine"]
+		8377 -> 209503
+	32361249 [label="History of supercomputing"]
+		264051 -> 32361249
+	13636 [label="History of computing hardware"]
+		531686 -> 13636
+	144949 [label="Altair 8800|IMSAI 8080"]
+		264051 -> 144949
+	6368345 [label=Micral]
+		264051 -> 6368345
+	24607310 [label="Hierarchical model"]
+		10973690 -> 24607310
+	3125116 [label="Inverted index"]
+		10973690 -> 3125116
+	26220 [label="Relational model"]
+		10973690 -> 26220
+	185098 [label="Network model"]
+		10973690 -> 185098
+	1040391 [label="Physical schema"]
+		1040387 -> 1040391
+	58267 [label="Conceptual schema"]
+		1040387 -> 58267
+	33571 [label="Williams tube"]
+		531686 -> 33571
+	24799509 [label="Graph database"]
+		10973690 -> 24799509
+	10983365 [label="Database storage structures"]
+		209503 -> 10983365
+	7919705 [label=" Magnetic card"]
+		3695788 -> 7919705
+	32727592 [label="Keystroke programmable"]
+		3695788 -> 32727592
+	1487482 [label="Pocket computer"]
+		3695788 -> 1487482
+	11689534 [label="Continuous memory"]
+		3695788 -> 11689534
+	512681 [label="RPL (programming language)"]
+		3695788 -> 512681
+	1711076 [label="Database index"]
+		209503 -> 1711076
+	21386149 [label="Petascale computing"]
+		32361249 -> 21386149
+	22826 [label="Object database"]
+		23968131 -> 22826
+	27686 [label="Flat file database|Spreadsheet"]
+		10973690 -> 27686
+	1368 [label="Assembly language"]
+		3695788 -> 1368
+	50595 [label="Flash memory"]
+		3695788 -> 50595
+	8640 [label="Database normalization"]
+		26220 -> 8640
+	21786377 [label="Altair BASIC"]
+		144949 -> 21786377
+	7593 [label=Calculator]
+	1326443 [label="B+ tree"]
+		10983365 -> 1326443
+	1490598 [label="Index locking"]
+		1711076 -> 1490598
+	2017214 [label="Bitmap index"]
+		1711076 -> 2017214
+	10633346 [label=MultiValue]
+		10973690 -> 10633346
+	5646487 [label="Object-relational model|Object model"]
+		10973690 -> 5646487
+	23065382 [label="List of online spreadsheets"]
+		27686 -> 23065382
+	33312300 [label="Works Records System"]
+		27686 -> 33312300
+	2558357 [label="Reverse index"]
+		1711076 -> 2558357
+	15698605 [label="List of assemblers"]
+		1368 -> 15698605
+	13833 [label="Hash table"]
+		10983365 -> 13833
+	20534511 [label="Flash file system"]
+		50595 -> 20534511
+	18457137 [label="Personal computer"]
+		264051 -> 18457137
+	432897 [label="Mechanical calculator"]
+	3695788 [label="Programmable calculator"]
+	531686 [label="Manchester Small-Scale Experimental Machine"]
+	12289014 [label="Transistor computer"]
+	1583843 [label="Open addressing"]
+		13833 -> 1583843
+	16727386 [label="Triplestore|Named graph"]
+		23968131 -> 16727386
+	1423287 [label="String interning"]
+		13833 -> 1423287
+	13790 [label="Hash function"]
+		13833 -> 13790
+	7366298 [label="Solid-state drive"]
+		50595 -> 7366298
+	2428 [label="Analog computer"]
+	52742 [label="Desktop computer"]
+		18457137 -> 52742
+	3879451 [label="Gaming computer"]
+		18457137 -> 3879451
+	19781493 [label=Nettop]
+		18457137 -> 19781493
+	23298491 [label="Visual display unit"]
+		18457137 -> 23298491
+	179714 [label="Desktop replacement computer"]
+		18457137 -> 179714
+	68181 [label=Workstation]
+		18457137 -> 68181
+	1136417 [label="Computer case"]
+		18457137 -> 1136417
+	69170 [label="Pocket PC"]
+		18457137 -> 69170
+	4185851 [label="Ultra-mobile PC"]
+		18457137 -> 4185851
+	88241 [label="Primary storage"]
+		18457137 -> 88241
+	867860 [label=Netbook]
+		18457137 -> 867860
+	264051 [label="History of computing hardware (1960s–present)|History of general-purpose CPUs"]
+	5310 [label="Personal computer hardware"]
+		18457137 -> 5310
+	19945 [label=Motherboard]
+		18457137 -> 19945
+	4182449 [label="Tablet computer"]
+		18457137 -> 4182449
+	1271 [label="Analytical Engine"]
+	6229 [label="Colossus computer|ENIAC"]
+	33571 [label="Williams tube"]
+	44562730 [label="List of subject-predicate-object databases"]
+		16727386 -> 44562730
+	16142167 [label="History of personal computers"]
+		18457137 -> 16142167
+	2792130 [label="Windows Mobile 2003"]
+		69170 -> 2792130
+	23064447 [label=Smartbook]
+		867860 -> 23064447
+	5218 [label="Central processing unit"]
+		18457137 -> 5218
+	888970 [label="Home theater PC"]
+		18457137 -> 888970
+	198584 [label=Laptop]
+		18457137 -> 198584
+	7578564 [label="Power supply unit (computer)"]
+		18457137 -> 7578564
+	1275656 [label="Windows Mobile"]
+		69170 -> 1275656
+	6368345 [label=Micral]
+	32361249 [label="History of supercomputing"]
+	31848677 [label="2-in-1 PC"]
+		4182449 -> 31848677
+	144949 [label="Altair 8800|IMSAI 8080"]
+	32543240 [label="Firefox OS"]
+		4182449 -> 32543240
+	22340324 [label="Comparison of computer form factors"]
+		19945 -> 22340324
+	22730314 [label="Comparison of netbook-oriented Linux distributions"]
+		867860 -> 22730314
+	28977307 [label="Microsoft Tablet PC"]
+		4182449 -> 28977307
+	13777 [label="Hard disk drive"]
+		18457137 -> 13777
+	13636 [label="History of computing hardware"]
+	28769705 [label="History of tablet computers"]
+		4182449 -> 28769705
+	35590843 [label=Phablet]
+		4182449 -> 35590843
+	16758518 [label=ModBook]
+		4182449 -> 16758518
+	14684287 [label="Programma 101"]
+		16142167 -> 14684287
+	198584 [label="Laptop#Disadvantages"]
+		52742 -> 198584
+	16727386 [label=Triplestore]
+		44562730 -> 16727386
+	2007517 [label="IBM 610"]
+		16142167 -> 2007517
+	264051 [label="History of computing hardware (1960s–present)"]
+		16142167 -> 264051
+	18965652 [label="Simon (computer)"]
+		16142167 -> 18965652
+	18457137 [label="Personal computer"]
+	12610483 [label="Android (operating system)"]
+		4182449 -> 12610483
+	36181283 [label="Microsoft Surface"]
+		4182449 -> 36181283
+	6557 [label="Control unit"]
+		5218 -> 6557
+	24368184 [label="Digital Media Player"]
+		888970 -> 24368184
+	18457137 [label="Personal computer"]
+		16142167 -> 18457137
+	34289868 [label="Computer software"]
+		18457137 -> 34289868
+	48533603 [label="Mouse (computing)"]
+		18457137 -> 48533603
+	16785037 [label="History of laptops"]
+		198584 -> 16785037
+	30946368 [label="Keyboard (computing)"]
+		18457137 -> 30946368
+	454746 [label="Application software"]
+		18457137 -> 454746
+	9506857 [label="History of general-purpose CPUs"]
+		5218 -> 9506857
+	37259936 [label="Hard disk drive interface"]
+		13777 -> 37259936
+	25970423 [label="iOS|iPad"]
+		4182449 -> 25970423
+	356488 [label=ATX]
+		7578564 -> 356488
+	33238006 [label="Maemo|MeeGo|Tizen"]
+		4182449 -> 33238006
+	798370 [label="Computer cooling"]
+		19945 -> 798370
+	7064918 [label="History of hard disk drives"]
+		13777 -> 7064918
+	113624 [label="Video card"]
+		18457137 -> 113624
+	19553 [label=Microprocessor]
+		5218 -> 19553
+	305743 [label="Disk formatting"]
+		13777 -> 305743
+	32279697 [label="Hard disk drive performance characteristics"]
+		13777 -> 32279697
+	2160183 [label="Hard disk drive failure|Data recovery"]
+		13777 -> 2160183
+	22194 [label="Operating system"]
+		18457137 -> 22194
+	18890 [label="Microsoft Windows"]
+		18457137 -> 18890
+	1664937 [label="Computer recycling"]
+		18457137 -> 1664937
+	73041 [label="Video Graphics Array"]
+		113624 -> 73041
+	75022 [label=" Bus (computing) | Expansion card"]
+		113624 -> 75022
+	60980 [label="Digital Visual Interface"]
+		113624 -> 60980
+	2515655 [label=" DisplayPort"]
+		113624 -> 2515655
+	15056543 [label="MIR (computer)"]
+		16142167 -> 15056543
+	6368345 [label=Micral]
+		16142167 -> 6368345
+	307656 [label="Datapoint 2200"]
+		16142167 -> 307656
+	1878645 [label="Kenbak-1"]
+		16142167 -> 1878645
+	6097297 [label=Linux]
+		18457137 -> 6097297
+	390214 [label=" graphics processing unit"]
+		113624 -> 390214
+	537442 [label=HDMI]
+		113624 -> 537442
+	9101 [label="Device driver"]
+		22194 -> 9101
+	351131 [label="Virtual file system"]
+		22194 -> 351131
+	20266 [label=" Mainframe computer"]
+		22194 -> 20266
+	37024233 [label="Operating system user interface"]
+		22194 -> 37024233
+	18932622 [label="Berkeley Software Distribution"]
+		22194 -> 18932622
+	26123 [label="Real-time operating system"]
+		22194 -> 26123
+	-1 [label="ZX80|l1=Sinclair ZX80"]
+		16142167 -> -1
+	43008187 [label="Kernel (computing)"]
+		22194 -> 43008187
+	28418 [label="Sinclair QL"]
+		16142167 -> 28418
+	45178 [label="Process (computing)"]
+		22194 -> 45178
+	21291483 [label="Windows NT"]
+		18890 -> 21291483
+	32354 [label="Virtual memory"]
+		22194 -> 32354
+	21291914 [label="Windows 3.0|Windows 3.1x"]
+		18890 -> 21291914
+	66924 [label="Memory management"]
+		22194 -> 66924
+	21347364 [label=Unix]
+		22194 -> 21347364
+	7545609 [label="IBM PC"]
+		16142167 -> 7545609
+	530564 [label="TI-99"]
+		16142167 -> 530564
+	454486 [label="Windows 9x"]
+		18890 -> 454486
+	2275 [label="Apple II"]
+		16142167 -> 2275
+	7398 [label="Computer security"]
+		22194 -> 7398
+	43989914 [label="Windows 10"]
+		18890 -> 43989914
+	4122592 [label="Computer network"]
+		22194 -> 4122592
+	11381701 [label="Usage share of operating systems"]
+		18890 -> 11381701
+	326123 [label="Windows 7"]
+		18890 -> 326123
+	41181813 [label="Xbox One system software|Xbox 360 system software"]
+		18890 -> 41181813
+	23533163 [label="Chrome OS|Chromium OS"]
+		22194 -> 23533163
+	15395806 [label="Computer multitasking|Process management (computing)"]
+		22194 -> 15395806
+	30747 [label="TRS-80"]
+		16142167 -> 30747
+	492171 [label=Video4Linux]
+		6097297 -> 492171
+	63429 [label="Atari 8-bit family"]
+		16142167 -> 63429
+	15289 [label=Interrupt]
+		22194 -> 15289
+	51702 [label="Instruction pipelining|Superscalar processor"]
+		5218 -> 51702
+	27046146 [label="Arithmetic logic unit"]
+		5218 -> 27046146
+	228385 [label="Clock rate"]
+		5218 -> 228385
+	167596 [label="Protected mode|Supervisor mode"]
+		22194 -> 167596
+	87273 [label="Commodore PET"]
+		16142167 -> 87273
+	144949 [label="Altair 8800"]
+		16142167 -> 144949
+	21291384 [label="Windows 1.0|Windows 2.0|Windows 2.1x"]
+		18890 -> 21291384
+	20640 [label="OS X"]
+		22194 -> 20640
+	55395 [label="History of operating systems"]
+		22194 -> 55395
+	18890 [label="Microsoft Windows"]
+		22194 -> 18890
+	16988558 [label="Windows CE|Windows Phone"]
+		18890 -> 16988558
+	21347315 [label="Linux|Linux kernel"]
+		22194 -> 21347315
+	20640 [label="OS X"]
+		18457137 -> 20640
+	13694 [label="History of Microsoft Windows"]
+		18890 -> 13694
+	14032417 [label="History of Linux"]
+		6097297 -> 14032417
+	-1 [label="ZX Spectrum|l1=Sinclair Spectrum"]
+	2397236 [label="Linux adoption"]
+		6097297 -> 2397236
+	179714 [label="Desktop replacement computer"]
+		198584 -> 179714
+	20433252 [label="List of laptop brands and manufacturers"]
+		198584 -> 20433252
+	4635549 [label="Rugged computer"]
+		198584 -> 4635549
+	3854883 [label=Subnotebook]
+		198584 -> 3854883
+	602014 [label="Laptop theft"]
+		198584 -> 602014
+	32249266 [label="Solar notebook"]
+		198584 -> 32249266
+	5310 [label="Personal computer hardware"]
+		198584 -> 5310
+	31848677 [label="2-in-1 PC"]
+		198584 -> 31848677
+	3892697 [label="Smart Battery"]
+		198584 -> 3892697
+	3503207 [label="Multithreading (computer architecture)|l1=Multithreading|Multi-core processor"]
+		5218 -> 3503207
+	11381701 [label="Usage share of operating systems"]
+		22194 -> 11381701
+	34475 [label="ZX81|l1=Sinclair ZX81"]
+		16142167 -> 34475
+	45239390 [label="Mac OS X v10.0"]
+		20640 -> 45239390
+	34759984 [label="OS X Mountain Lion"]
+		20640 -> 34759984
+	42926799 [label="OS X Yosemite"]
+		20640 -> 42926799
+	738012 [label="Mac OS X Public Beta"]
+		20640 -> 738012
+	46924613 [label="OS X El Capitan"]
+		20640 -> 46924613
+	293355 [label="Mac OS X Panther"]
+		20640 -> 293355
+	45239396 [label="Mac OS X v10.2"]
+		20640 -> 45239396
+	39635381 [label="OS X Mavericks"]
+		20640 -> 39635381
+	2001664 [label="Mac OS X Leopard"]
+		20640 -> 2001664
+	45239393 [label="Mac OS X v10.1"]
+		20640 -> 45239393
+	55359 [label="Vector processor|SIMD"]
+		5218 -> 55359
+	145162 [label="Parallel computing"]
+		5218 -> 145162
+	9914431 [label="Linux gaming"]
+		6097297 -> 9914431
+	2397236 [label="Linux adoption"]
+	10635 [label="Linux distribution|Free software"]
+		6097297 -> 10635
+	641975 [label="Mac OS X Tiger"]
+		20640 -> 641975
+	2020710 [label="Apple's transition to Intel processors"]
+		20640 -> 2020710
+	14059031 [label="Mac OS X Snow Leopard"]
+		20640 -> 14059031
+	162549 [label="History of OS X"]
+		20640 -> 162549
+	29270505 [label="Mac OS X Lion"]
+		20640 -> 29270505
+	867860 [label=Netbook]
+		198584 -> 867860
+}

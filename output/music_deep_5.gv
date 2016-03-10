@@ -1,0 +1,1710 @@
+digraph {
+	18839 [label=music]
+	47962 [label="Musical composition"]
+		18839 -> 47962
+	379560 [label="Musical form"]
+		47962 -> 379560
+	552426 [label="Strophic form"]
+		379560 -> 552426
+	1502471 [label="Prehistoric music"]
+		18839 -> 1502471
+	224515 [label=Performance]
+		18839 -> 224515
+	66614 [label="Ornament (music)"]
+		18839 -> 66614
+	247746 [label="Music of Egypt"]
+		18839 -> 247746
+	33106889 [label="Culture in music cognition"]
+		18839 -> 33106889
+	3403168 [label="Outline of music|Index of music articles"]
+		18839 -> 3403168
+	20201 [label="Musical notation"]
+		18839 -> 20201
+	4960615 [label="Musical improvisation"]
+		18839 -> 4960615
+	24150040 [label="History of music in the biblical period"]
+		18839 -> 24150040
+	2414 [label=Arrangement]
+		47962 -> 2414
+	1020829 [label="20th-century music"]
+		18839 -> 1020829
+	13444712 [label="Philosophy of music|Aesthetics of music"]
+		18839 -> 13444712
+	379560 [label="Musical form"]
+	1939934 [label="Instrumentation (music)|Arrangement (music)"]
+		47962 -> 1939934
+	23380132 [label="Paleolithic flutes"]
+		1502471 -> 23380132
+	1600665 [label=Mordent]
+		66614 -> 1600665
+	68272 [label="Trill (music)"]
+		66614 -> 68272
+	235284 [label=Appoggiatura]
+		66614 -> 235284
+	4390344 [label="Music psychology"]
+		18839 -> 4390344
+	25049383 [label="Cognitive neuroscience of music"]
+		18839 -> 25049383
+	2025792 [label="Music education"]
+		18839 -> 2025792
+	217662 [label="Music therapy"]
+		18839 -> 217662
+	1946204 [label="Music industry"]
+		18839 -> 1946204
+	12653094 [label="Music genre|List of music styles"]
+		3403168 -> 12653094
+	87323 [label="History of music"]
+		3403168 -> 87323
+	555622 [label="Musical development"]
+		379560 -> 555622
+	104543 [label="Ternary form"]
+		379560 -> 104543
+	201093 [label="Rondo form"]
+		379560 -> 201093
+	103295 [label="Binary form"]
+		379560 -> 103295
+	965911 [label=Neume]
+		20201 -> 965911
+	8760501 [label="Jazz improvisation"]
+		4960615 -> 8760501
+	1549920 [label="Music of Mesopotamia"]
+		24150040 -> 1549920
+	1251240 [label="Aesthetics of music"]
+		13444712 -> 1251240
+	54783 [label="Music theory"]
+		18839 -> 54783
+	552426 [label="Strophic form"]
+	25663206 [label=Psychoacoustics]
+		18839 -> 25663206
+	4220231 [label="Evolutionary musicology"]
+		18839 -> 4220231
+	25136770 [label="Cognitive musicology"]
+		18839 -> 25136770
+	8249 [label="Definition of music"]
+		13444712 -> 8249
+	33643148 [label="Jam band"]
+		4960615 -> 33643148
+	329550 [label="20th-century classical music"]
+		1020829 -> 329550
+	15316853 [label=Sociomusicology]
+		18839 -> 15316853
+	41879 [label="Absolute pitch"]
+		4390344 -> 41879
+	25663206 [label=Psychoacoustics]
+		4390344 -> 25663206
+	33107185 [label="Music and emotion"]
+		4390344 -> 33107185
+	25049383 [label="Cognitive neuroscience of music"]
+		4390344 -> 25049383
+	80077 [label=Ethnomusicology]
+		18839 -> 80077
+	32418807 [label=eurhythmics]
+		2025792 -> 32418807
+	41879 [label="Absolute pitch"]
+		25049383 -> 41879
+	1946204 [label="Music industry"]
+		3403168 -> 1946204
+	20821742 [label="2000s in the music industry"]
+		1946204 -> 20821742
+	24297671 [label="Popular music"]
+		12653094 -> 24297671
+	255791 [label="Art music"]
+		12653094 -> 255791
+	1502471 [label="Prehistoric music"]
+		87323 -> 1502471
+	88768 [label="Pentatonic scale#Major pentatonic scale"]
+		8760501 -> 88768
+	624613 [label="Phrase (music)"]
+		8760501 -> 624613
+	29975266 [label="Flat nine chord"]
+		8760501 -> 29975266
+	77933 [label="Pitch (music)"]
+		54783 -> 77933
+	753416 [label="Aspect of music"]
+		8249 -> 753416
+	868674 [label="Neoclassicism (music)"]
+		329550 -> 868674
+	2263934 [label="Musical language"]
+		8249 -> 2263934
+	14566 [label="Impressionism in music"]
+		329550 -> 14566
+	280626 [label="Absolute music|Program music"]
+		13444712 -> 280626
+	9736652 [label="Auditory masking"]
+		25663206 -> 9736652
+	190897 [label="Relative pitch"]
+		41879 -> 190897
+	1021754 [label="Sound localization"]
+		25663206 -> 1021754
+	33106889 [label="Culture in music cognition"]
+		80077 -> 33106889
+	41879 [label="Absolute pitch"]
+	190897 [label="Relative pitch"]
+	-1 [label="File sharing#Effects of file sharing|l1=Effects of file sharing"]
+		20821742 -> -1
+	20821742 [label="2000s in the music industry"]
+	1189660 [label="Song structure"]
+		24297671 -> 1189660
+	23380132 [label="Paleolithic flutes"]
+	448251 [label="Variation (music)"]
+		379560 -> 448251
+	12716 [label=Glissando]
+		66614 -> 12716
+	15523555 [label="Slide (musical ornament)"]
+		66614 -> 15523555
+	1021754 [label="Sound localization"]
+	39174513 [label="Anhemitonic scale"]
+		88768 -> 39174513
+	333274 [label="Concert pitch"]
+		77933 -> 333274
+	217662 [label="Music therapy"]
+		33107185 -> 217662
+	1649477 [label="Verse–chorus form"]
+		1189660 -> 1649477
+	501892 [label="Introduction (music)"]
+		1189660 -> 501892
+	317730 [label=Refrain]
+		1189660 -> 317730
+	37249975 [label="Outro (music)"]
+		1189660 -> 37249975
+	1162573 [label="Thirty-two-bar form"]
+		1189660 -> 1162573
+	4420589 [label="Section (music)"]
+		3403168 -> 4420589
+	377234 [label="Solo (music)"]
+		1189660 -> 377234
+	1663632 [label="Bridge (music)"]
+		1189660 -> 1663632
+	190897 [label="Relative pitch"]
+	36045563 [label="Musical scale| Musical mode"]
+		54783 -> 36045563
+	47338295 [label="Sound localization in owls"]
+		1021754 -> 47338295
+	-1 [label="File sharing#Effects of file sharing|l1=Effects of file sharing"]
+	80077 [label=Ethnomusicology]
+		8249 -> 80077
+	8249 [label="Definition of music"]
+		753416 -> 8249
+	47338295 [label="Sound localization in owls"]
+	424924 [label="A440 (pitch standard)"]
+		333274 -> 424924
+	309852 [label="List of cultural and regional genres of music"]
+		3403168 -> 309852
+	27406894 [label="Musical instrument|List of musical instruments"]
+		3403168 -> 27406894
+	1021754 [label="Sound localization"]
+		47338295 -> 1021754
+	972095 [label="Lick (music)"]
+		8760501 -> 972095
+	36595363 [label="Chinese musical notation"]
+		20201 -> 36595363
+	448251 [label="Variation (music)"]
+	555622 [label="Musical development"]
+	201093 [label="Rondo form"]
+	4220231 [label="Evolutionary musicology"]
+		4390344 -> 4220231
+	40882385 [label=Swaralipi]
+		20201 -> 40882385
+	25136770 [label="Cognitive musicology"]
+		4390344 -> 25136770
+	689904 [label="Graphic notation"]
+		20201 -> 689904
+	27565688 [label="List of universities with ethnomusicology programmes"]
+		80077 -> 27565688
+	17956553 [label="Popular music pedagogy"]
+		2025792 -> 17956553
+	4535833 [label=Klavarskribo]
+		20201 -> 4535833
+	952994 [label="Orff Schulwerk"]
+		2025792 -> 952994
+	19833430 [label="Simplified music notation"]
+		20201 -> 19833430
+	1859669 [label="Parsons code"]
+		20201 -> 1859669
+	425035 [label="Letter notation"]
+		20201 -> 425035
+	29832 [label="Traditional music"]
+		12653094 -> 29832
+	36480970 [label="Boss School of Music"]
+		2025792 -> 36480970
+	6127494 [label="Kodály method"]
+		2025792 -> 6127494
+	428522 [label=Scorewriter]
+		20201 -> 428522
+	33106889 [label="Culture in music cognition"]
+	1251240 [label="Aesthetics of music"]
+		8249 -> 1251240
+	2263934 [label="Musical language"]
+	753416 [label="Aspect of music"]
+	379560 [label="Musical form"]
+		3403168 -> 379560
+	25213736 [label="Music-specific disorders"]
+		25049383 -> 25213736
+	12502486 [label=MMCP]
+		2025792 -> 12502486
+	935044 [label="Neoclassical music"]
+		1020829 -> 935044
+	9446686 [label="Nationalism (music)"]
+		1020829 -> 9446686
+	48027295 [label="Gordon Music Learning Theory"]
+		2025792 -> 48027295
+	403724 [label="Serbian music"]
+		309852 -> 403724
+	691832 [label="Alternative Rock"]
+		1020829 -> 691832
+	223014 [label="Indian classical music"]
+		87323 -> 223014
+	413621 [label="Persian traditional music"]
+		87323 -> 413621
+	1559097 [label="Range (music)"]
+		27406894 -> 1559097
+	101900 [label="Musical instrument classification"]
+		27406894 -> 101900
+	104543 [label="Ternary form"]
+	83620 [label="Sonata form"]
+		379560 -> 83620
+	901045 [label="Numbered musical notation"]
+		20201 -> 901045
+	4828753 [label="Gamelan notation"]
+		20201 -> 4828753
+	695696 [label="Braille music"]
+		20201 -> 695696
+	5934781 [label="Western art music"]
+		87323 -> 5934781
+	10033 [label="Early music"]
+		87323 -> 10033
+	292200 [label="Missing fundamental"]
+		25663206 -> 292200
+	5643937 [label="Music and mathematics"]
+		54783 -> 5643937
+	1251240 [label="Aesthetics of music"]
+	12653094 [label="Music genre|Musical technique"]
+		54783 -> 12653094
+	39646092 [label="Modified Stave Notation"]
+		20201 -> 39646092
+	382594 [label="Suzuki method"]
+		2025792 -> 382594
+	21312279 [label="Music-related memory"]
+		25049383 -> 21312279
+	9736652 [label="Auditory masking"]
+	18938651 [label=Tablature]
+		20201 -> 18938651
+	552426 [label="Strophic form"]
+	104543 [label="Ternary form"]
+	555622 [label="Musical development"]
+	83620 [label="Sonata form"]
+	841986 [label="Modernism (music)"]
+		1020829 -> 841986
+	13825869 [label="Experimental music"]
+		1020829 -> 13825869
+	80077 [label=Ethnomusicology]
+	1021754 [label="Sound localization"]
+	95323 [label="Solfège"]
+		20201 -> 95323
+	448251 [label="Variation (music)"]
+	201093 [label="Rondo form"]
+	1731484 [label=Amusia]
+		25213736 -> 1731484
+	103295 [label="Binary form"]
+	37846886 [label="Musical hallucinations"]
+		25213736 -> 37846886
+	245846 [label="African music"]
+		87323 -> 245846
+	14860795 [label="Asian music"]
+		87323 -> 14860795
+	421288 [label="Chinese classical music"]
+		87323 -> 421288
+	60590 [label="Bluegrass music"]
+		1020829 -> 60590
+	571263 [label="Minimal music"]
+		1020829 -> 571263
+	330217 [label="Contemporary classical music"]
+		1020829 -> 330217
+	26227 [label=Rhythm]
+		54783 -> 26227
+	103295 [label="Binary form"]
+	24297671 [label="Popular music"]
+		1020829 -> 24297671
+	577590 [label="Hindustani classical music"]
+		223014 -> 577590
+	2027283 [label="Expressionist music"]
+		329550 -> 2027283
+	23613 [label="Postmodern music"]
+		329550 -> 23613
+	14585877 [label="Futurism (music)"]
+		329550 -> 14585877
+	1107749 [label="Carnatic Music"]
+		223014 -> 1107749
+	599220 [label="New-age music"]
+		1020829 -> 599220
+	43397 [label=Polka]
+		1020829 -> 43397
+	841986 [label="Modernism (music)"]
+		329550 -> 841986
+	1502321 [label="Ancient music"]
+		87323 -> 1502321
+	518339 [label="Background music#Music in marketing"]
+		4390344 -> 518339
+	33106889 [label="Culture in music cognition"]
+		4390344 -> 33106889
+	2578527 [label="Articulation (music)"]
+		54783 -> 2578527
+	501892 [label="Introduction (music)"]
+		83620 -> 501892
+	37523519 [label="Psychology of music preference"]
+		4390344 -> 37523519
+	23275904 [label="Baroque music"]
+		87323 -> 23275904
+	555622 [label="Musical development"]
+		83620 -> 555622
+	14124258 [label="Exposition (music)"]
+		83620 -> 14124258
+	981281 [label="History of sonata form"]
+		83620 -> 981281
+	3900599 [label="Recapitulation (music)"]
+		83620 -> 3900599
+	410854 [label="Musical texture"]
+		54783 -> 410854
+	17023672 [label="Musical expression"]
+		54783 -> 17023672
+	981045 [label="Three-key exposition"]
+		83620 -> 981045
+	25916 [label="Romantic music"]
+		87323 -> 25916
+	6774401 [label="Musical analysis|Schenkerian analysis|Transformational theory"]
+		54783 -> 6774401
+	24150040 [label="History of music in the biblical period"]
+		87323 -> 24150040
+	4963275 [label="Early music revival"]
+		10033 -> 4963275
+	25840 [label="Renaissance music"]
+		87323 -> 25840
+	-1 [label="Musical note#History of note names|l1=Note: History of note names"]
+		425035 -> -1
+	95261 [label="Musical notation|Sheet music"]
+		54783 -> 95261
+	196567 [label="Coda (music)"]
+		83620 -> 196567
+	518339 [label="Background music"]
+	19616384 [label="Abstract algebra"]
+		5643937 -> 19616384
+	379560 [label="Musical form"]
+		5643937 -> 379560
+	255791 [label="Art music"]
+	29832 [label="Traditional music"]
+	24297671 [label="Popular music"]
+	414788 [label="Set theory (music)"]
+		5643937 -> 414788
+	27565688 [label="List of universities with ethnomusicology programmes"]
+	25213736 [label="Music-specific disorders"]
+	555622 [label="Musical development"]
+	20817 [label="Musical tuning|Musical temperament"]
+		5643937 -> 20817
+	981281 [label="History of sonata form"]
+	14124258 [label="Exposition (music)"]
+	981284 [label="Criticism and sonata form"]
+		83620 -> 981284
+	3900599 [label="Recapitulation (music)"]
+	981045 [label="Three-key exposition"]
+	501892 [label="Introduction (music)"]
+	3243540 [label="List of musical symbols"]
+		20201 -> 3243540
+	68276 [label="Microtonal music"]
+		1020829 -> 68276
+	83620 [label="Sonata form"]
+	51503 [label="Progressive rock"]
+		1020829 -> 51503
+	1020829 [label="20th-century music"]
+		87323 -> 1020829
+	3352 [label=Blues]
+		1020829 -> 3352
+	58520 [label="Free improvisation"]
+		13825869 -> 58520
+	33134 [label="World music"]
+		1020829 -> 33134
+	22348 [label="Opera#Contemporary, recent, and modernist trends"]
+		1020829 -> 22348
+	598652 [label="New York School (art)#The composers"]
+		13825869 -> 598652
+	47338295 [label="Sound localization in owls"]
+	32103298 [label="Minimalist music"]
+		13825869 -> 32103298
+	30870744 [label="Tone deafness"]
+		1731484 -> 30870744
+	25213736 [label="Music-specific disorders"]
+		1731484 -> 25213736
+	1477906 [label="Progressive bluegrass"]
+		60590 -> 1477906
+	8802497 [label="Musical historicism"]
+		330217 -> 8802497
+	6974 [label="Computer music"]
+		330217 -> 6974
+	868505 [label="Neoromanticism (music)"]
+		330217 -> 868505
+	7385329 [label="New Simplicity"]
+		330217 -> 7385329
+	846624 [label=Polystylism]
+		330217 -> 846624
+	4037304 [label="Traditional bluegrass"]
+		60590 -> 4037304
+	9955219 [label="List of music festivals"]
+		330217 -> 9955219
+	23270444 [label="20th century classical music"]
+		330217 -> 23270444
+	1861895 [label="Spectral music"]
+		330217 -> 1861895
+	23613 [label="Postmodern music"]
+		330217 -> 23613
+	2970361 [label="New Complexity"]
+		330217 -> 2970361
+	576159 [label=Isochrony]
+		26227 -> 576159
+	35765948 [label="List of Minimalist composers"]
+		571263 -> 35765948
+	1189660 [label="Song structure"]
+	32103298 [label="Minimalist music|Post-minimalism"]
+		330217 -> 32103298
+	40258 [label=Harmony]
+		54783 -> 40258
+	13825869 [label="Experimental music"]
+		329550 -> 13825869
+	577567 [label=Tarana]
+		577590 -> 577567
+	77892 [label=Timbre]
+		54783 -> 77892
+	5288 [label="Classical period (music)"]
+		87323 -> 5288
+	1502471 [label="Prehistoric music"]
+		54783 -> 1502471
+	226021 [label="Dynamics (music)"]
+		54783 -> 226021
+	246225 [label="Music of Greece"]
+		87323 -> 246225
+	25318864 [label=Tappa]
+		577590 -> 25318864
+	37735 [label=Melody]
+		54783 -> 37735
+	379560 [label="Musical form"]
+		54783 -> 379560
+	427926 [label=Ghazal]
+		577590 -> 427926
+	200353 [label=Khyal]
+		577590 -> 200353
+	47010679 [label="List of Hindustani classical music festivals"]
+		577590 -> 47010679
+	55319 [label="Ambient music"]
+		518339 -> 55319
+	19629960 [label="Music in ancient India"]
+		1502321 -> 19629960
+	33107185 [label="Music and emotion"]
+		25049383 -> 33107185
+	55348 [label="Elevator music"]
+		518339 -> 55348
+	4116363 [label="Music of ancient Greece"]
+		1502321 -> 4116363
+	2037363 [label="Furniture music"]
+		518339 -> 2037363
+	14943130 [label="Polka in the United States"]
+		43397 -> 14943130
+	156938 [label="Incidental music"]
+		518339 -> 156938
+	22148292 [label="Lyres of Ur"]
+		1502321 -> 22148292
+	1553135 [label="Music of ancient Mesopotamia"]
+		1502321 -> 1553135
+	247746 [label="Music of Egypt"]
+		1502321 -> 247746
+	33286239 [label="Guqin history"]
+		1502321 -> 33286239
+	4217861 [label="Music of ancient Rome"]
+		1502321 -> 4217861
+	19956 [label="Medieval music"]
+		87323 -> 19956
+	1577801 [label="guitar chord"]
+		425035 -> 1577801
+	361425 [label="Historically informed performance"]
+		10033 -> 361425
+	1549920 [label="Music of Mesopotamia"]
+	3360763 [label="Musical nationalism"]
+		25916 -> 3360763
+	571263 [label="Minimal music"]
+		329550 -> 571263
+	21312279 [label="Music-related memory"]
+	555622 [label="Musical development"]
+	156938 [label="Incidental music"]
+	552426 [label="Strophic form"]
+	32988075 [label="Outline of abstract algebra"]
+		19616384 -> 32988075
+	103295 [label="Binary form"]
+	201093 [label="Rondo form"]
+	55348 [label="Elevator music"]
+	365058 [label="Algebraic structures"]
+		19616384 -> 365058
+	3189755 [label="Set (music)"]
+		414788 -> 3189755
+	2037363 [label="Furniture music"]
+	55319 [label="Ambient music"]
+	1731484 [label=Amusia]
+	104543 [label="Ternary form"]
+	1189660 [label="Song structure"]
+	11391467 [label="Stringed instrument tunings"]
+		20817 -> 11391467
+	37846886 [label="Musical hallucinations"]
+	83620 [label="Sonata form"]
+	10623 [label="Folk music"]
+		1020829 -> 10623
+	425825 [label=scordatura]
+		20817 -> 425825
+	753416 [label="Aspect of music"]
+		54783 -> 753416
+	9510 [label="Electronic music"]
+		1020829 -> 9510
+	6668778 [label="Classical music"]
+		87323 -> 6668778
+	988707 [label="Byzantine music"]
+		87323 -> 988707
+	7966 [label=Disco]
+		1020829 -> 7966
+	5247 [label="Country music"]
+		1020829 -> 5247
+	1664363 [label="Consonance and dissonance"]
+		54783 -> 1664363
+	68276 [label="Microtonal music"]
+		13825869 -> 68276
+	20017 [label="Musique concrète"]
+		13825869 -> 20017
+	841986 [label="Modernism (music)"]
+		330217 -> 841986
+	43090901 [label="List of bluegrass music festivals"]
+		60590 -> 43090901
+	1636323 [label="Note value"]
+		3243540 -> 1636323
+	49214 [label=Clef]
+		3243540 -> 49214
+	981284 [label="Criticism and sonata form"]
+	14124258 [label="Exposition (music)"]
+	330217 [label="Contemporary classical music"]
+	935044 [label="Neoclassical music"]
+	3900599 [label="Recapitulation (music)"]
+	65565 [label="Progressive metal"]
+		51503 -> 65565
+	707424 [label="Neo-progressive rock"]
+		51503 -> 707424
+	571263 [label="Minimal music"]
+	4142389 [label="Timeline of progressive rock"]
+		51503 -> 4142389
+	43397 [label=Polka]
+	24297671 [label="Popular music"]
+	41695854 [label="List of progressive rock bands"]
+		51503 -> 41695854
+	555622 [label="Musical development"]
+	196567 [label="Coda (music)"]
+	5846986 [label="Awards for world music"]
+		33134 -> 5846986
+	599220 [label="New-age music"]
+	37846886 [label="Musical hallucinations"]
+	479884 [label="Algorithmic composition"]
+		6974 -> 479884
+	226021 [label="Dynamics (music)"]
+		3243540 -> 226021
+	1663632 [label="Bridge (music)"]
+	37249975 [label="Outro (music)"]
+	981045 [label="Three-key exposition"]
+	317730 [label=Refrain]
+	841986 [label="Modernism (music)"]
+	13825869 [label="Experimental music"]
+	1162573 [label="Thirty-two-bar form"]
+	954290 [label="Live coding"]
+		6974 -> 954290
+	501892 [label="Introduction (music)"]
+	1649477 [label="Verse–chorus form"]
+	68276 [label="Microtonal music"]
+	9446686 [label="Nationalism (music)"]
+	3352 [label=Blues]
+	40667 [label="Accidental (music)|Key signature"]
+		3243540 -> 40667
+	598652 [label="New York School (art)#The composers"]
+	7527 [label="Concept album"]
+		51503 -> 7527
+	501892 [label="Introduction (music)"]
+	2681485 [label="Origins of the blues"]
+		3352 -> 2681485
+	329550 [label="20th-century classical music"]
+	276919 [label="Italian progressive rock|Krautrock|Berlin School of electronic music|Zeuhl"]
+		51503 -> 276919
+	32103298 [label="Minimalist music"]
+	15613 [label=Jazz]
+		1020829 -> 15613
+	224256 [label="Chord (music)"]
+		54783 -> 224256
+	232763 [label=Thumri]
+		577590 -> 232763
+	23037 [label="Punk rock"]
+		1020829 -> 23037
+	1731484 [label=Amusia]
+	552426 [label="Strophic form"]
+	201093 [label="Rondo form"]
+	58520 [label="Free improvisation"]
+	104543 [label="Ternary form"]
+	555622 [label="Musical development"]
+	2148134 [label="Space music"]
+		55319 -> 2148134
+	590810 [label="ambient house"]
+		55319 -> 590810
+	988707 [label="Byzantine music"]
+		246225 -> 988707
+	44133 [label=Overture]
+		156938 -> 44133
+	405183 [label=Organum]
+		19956 -> 405183
+	448251 [label="Variation (music)"]
+	700335 [label="Ars nova"]
+		19956 -> 700335
+	16587140 [label="Galician-Portuguese lyric"]
+		19956 -> 16587140
+	147481 [label="List of recorder players"]
+		361425 -> 147481
+	35765948 [label="List of Minimalist composers"]
+	700326 [label="Ars antiqua"]
+		19956 -> 700326
+	49171 [label="Interval (music)"]
+		1577801 -> 49171
+	4539590 [label="Ambient industrial"]
+		55319 -> 4539590
+	463026 [label="Theme music"]
+		156938 -> 463026
+	414788 [label="Set theory (music)"]
+		3189755 -> 414788
+	590810 [label="Ambient house"]
+	590810 [label="ambient house"]
+	782366 [label="Dark ambient"]
+		55319 -> 782366
+	44133 [label=Overture]
+	377234 [label="Solo (music)"]
+	1649477 [label="Verse–chorus form"]
+	501892 [label="Introduction (music)"]
+	1663632 [label="Bridge (music)"]
+	86321 [label=Fluxus]
+		13825869 -> 86321
+	30870744 [label="Tone deafness"]
+	317730 [label=Refrain]
+	37249975 [label="Outro (music)"]
+	41665385 [label="List of pitch class sets"]
+		3189755 -> 41665385
+	23921367 [label="music of Canadian cultures"]
+		10623 -> 23921367
+	555622 [label="Musical development"]
+	14124258 [label="Exposition (music)"]
+	166141 [label="Music of Africa"]
+		10623 -> 166141
+	25213736 [label="Music-specific disorders"]
+	18424265 [label=Cherubikon]
+		988707 -> 18424265
+	501892 [label="Introduction (music)"]
+	33899498 [label="Studio d'Essai"]
+		20017 -> 33899498
+	87323 [label="History of music"]
+		6668778 -> 87323
+	2063313 [label="Euro disco"]
+		7966 -> 2063313
+	981281 [label="History of sonata form"]
+	60590 [label="Bluegrass music"]
+	5247 [label="Country music"]
+	25412 [label="Rock and roll|Rock music"]
+		1020829 -> 25412
+	202343 [label="Ferruccio Busoni"]
+		9510 -> 202343
+	9955219 [label="Bluegrass music|List of music festivals"]
+		43090901 -> 9955219
+	841986 [label="Modernism (music)"]
+	17959491 [label="BBC Radio 3 Awards for World Music"]
+		5846986 -> 17959491
+	37394106 [label="WOMEX Awards"]
+		5846986 -> 37394106
+	868505 [label="Neoromanticism (music)"]
+	6974 [label="Computer music"]
+	1861895 [label="Spectral music"]
+	1189660 [label="Song structure"]
+	846624 [label=Polystylism]
+	35765948 [label="List of Minimalist composers"]
+	7049567 [label="Grand Prix du Disque for World Music"]
+		5846986 -> 7049567
+	30282 [label="Time signature"]
+		3243540 -> 30282
+	9510 [label="Electronic music"]
+	22348 [label="Opera#Contemporary, recent, and modernist trends"]
+	8802497 [label="Musical historicism"]
+	23613 [label="Postmodern music"]
+	18945847 [label="Hip hop music"]
+		1020829 -> 18945847
+	30874378 [label="World Music Awards"]
+		5846986 -> 30874378
+	23270444 [label="20th century classical music"]
+	10623 [label="Folk music"]
+	14943130 [label="Polka in the United States"]
+	15613 [label=Jazz]
+	68276 [label="Microtonal music"]
+	32103298 [label="Minimalist music"]
+	598652 [label="New York School (art)#The composers"]
+	2681485 [label="Origins of the blues"]
+	7966 [label=Disco]
+	86321 [label=Fluxus]
+	224256 [label="Chord (music)|Consonance and dissonance"]
+		40258 -> 224256
+	217662 [label="Music therapy"]
+	63788 [label=Troubadour]
+		19956 -> 63788
+	19556 [label="Mode (music)"]
+		8760501 -> 19556
+	14585877 [label="Futurism (music)"]
+	13825869 [label="Experimental music"]
+	199915 [label="Jazz Age"]
+		15613 -> 199915
+	280926 [label="Cool jazz"]
+		15613 -> 280926
+	2148134 [label="Space music"]
+	319567 [label="Music of Sri Lanka"]
+		10623 -> 319567
+	48145 [label=Bebop]
+		15613 -> 48145
+	214004 [label="Hard bop"]
+		15613 -> 214004
+	1107981 [label="Afro-Cuban jazz"]
+		15613 -> 1107981
+	26562683 [label=Dixieland]
+		15613 -> 26562683
+	841986 [label="Modernism (music)"]
+	2924002 [label="Post-disco|Electronic dance music"]
+		7966 -> 2924002
+	571263 [label="Minimal music"]
+	10073477 [label="Electroacoustic Improvisation"]
+		58520 -> 10073477
+	868674 [label="Neoclassicism (music)"]
+	2027283 [label="Expressionist music"]
+	18424265 [label=Cherubikon]
+	29788842 [label="1940s in jazz|1950s in jazz"]
+		15613 -> 29788842
+	14566 [label="Impressionism in music"]
+	63106 [label="Modal jazz"]
+		15613 -> 63106
+	26553 [label=Ragtime]
+		15613 -> 26553
+	874766 [label="Notre Dame school"]
+		405183 -> 874766
+	269036 [label="Cent (music)"]
+		49171 -> 269036
+	23613 [label="Postmodern music"]
+	435239 [label="Music of the Maritimes"]
+		23921367 -> 435239
+	32536786 [label="First Nations music"]
+		23921367 -> 32536786
+	10133583 [label="Caribbean music in Canada"]
+		23921367 -> 10133583
+	1601816 [label="African popular music"]
+		166141 -> 1601816
+	3594213 [label="Steps and skips"]
+		49171 -> 3594213
+	-1 [label="Music of immigrant communities in Canada"]
+		23921367 -> -1
+	13922792 [label="Inversion (music)"]
+		49171 -> 13922792
+	435337 [label="Inuit music"]
+		23921367 -> 435337
+	4037304 [label="Traditional bluegrass"]
+	24150040 [label="History of music in the biblical period"]
+	6668778 [label="Classical music"]
+	25916 [label="Romantic music"]
+	23275904 [label="Baroque music"]
+	10033 [label="Early music"]
+	5288 [label="Classical period (music)"]
+	94707 [label=Enharmonic]
+		49171 -> 94707
+	1477906 [label="Progressive bluegrass"]
+	8760501 [label="Jazz improvisation"]
+		15613 -> 8760501
+	442836 [label="Music of Canada's Prairie Provinces"]
+		23921367 -> 442836
+	171108 [label="Nashville sound"]
+		5247 -> 171108
+	43090901 [label="List of bluegrass music festivals"]
+	25840 [label="Renaissance music"]
+	1185933 [label="Music of Newfoundland and Labrador"]
+		23921367 -> 1185933
+	1447328 [label="Specific interval | Generic interval"]
+		49171 -> 1447328
+	1658857 [label=" Interval class| Ordered pitch interval"]
+		49171 -> 1658857
+	18428602 [label="Roman numeral analysis"]
+		224256 -> 18428602
+	99040 [label="Free jazz"]
+		15613 -> 99040
+	1502471 [label="Prehistoric music"]
+	322816 [label="Italian overture"]
+		44133 -> 322816
+	14585877 [label="Futurism (music)"]
+		9510 -> 14585877
+	202343 [label="Ferruccio Busoni"]
+	20263821 [label="Live electronic music"]
+		9510 -> 20263821
+	32259511 [label=Elektronmusikstudion]
+		9510 -> 32259511
+	413010 [label="Compound meter (music)"]
+		30282 -> 413010
+	20017 [label="Musique concrète"]
+		9510 -> 20017
+	350752 [label="Video game music"]
+		463026 -> 350752
+	58520 [label="Free improvisation"]
+	27510655 [label="Interval ratio"]
+		49171 -> 27510655
+	20017 [label="Musique concrète"]
+	246225 [label="Music of Greece"]
+	29786526 [label="1960s in jazz|1970s in jazz"]
+		15613 -> 29786526
+	435834 [label="Music of Quebec"]
+		23921367 -> 435834
+	5934781 [label="Western art music"]
+	86321 [label=Fluxus]
+	68276 [label="Microtonal music"]
+	1502321 [label="Ancient music"]
+	171930 [label=Rockabilly]
+		5247 -> 171930
+	880124 [label="Interval cycle| Identity (music)"]
+		49171 -> 880124
+	6974 [label="Computer music"]
+		9510 -> 6974
+	38078804 [label="Hagiopolitan Octoechos"]
+		988707 -> 38078804
+	259022 [label=IRCAM]
+		9510 -> 259022
+	158366 [label="Iannis Xenakis|Stochastic music"]
+		9510 -> 158366
+	2982290 [label=STEIM]
+		9510 -> 2982290
+	10232935 [label="Diatonic and chromatic"]
+		49171 -> 10232935
+	167409 [label="Alternative rock"]
+		23037 -> 167409
+	322816 [label="Italian overture"]
+	53183 [label="New school hip hop"]
+		18945847 -> 53183
+	319567 [label="Music of Sri Lanka"]
+	25382326 [label="Post-punk"]
+		7966 -> 25382326
+	2063313 [label="Euro disco"]
+	8760501 [label="Jazz improvisation"]
+	18428602 [label="Roman numeral analysis"]
+	40258 [label=Harmony]
+		224256 -> 40258
+	40258 [label=Harmony]
+	164887 [label="Swing music|1930s in jazz"]
+		15613 -> 164887
+	1020829 [label="20th-century music"]
+	31779701 [label="Sub-Saharan African music traditions|Rhythm in Sub-Saharan African music"]
+		166141 -> 31779701
+	4146500 [label=Trobairitz]
+		63788 -> 4146500
+	2389072 [label="West Coast jazz"]
+		280926 -> 2389072
+	12017885 [label="List of bebop musicians"]
+		48145 -> 12017885
+	446771 [label="Electro (music)"]
+		2924002 -> 446771
+	624613 [label="Phrase (music)"]
+	972095 [label="Lick (music)"]
+	88768 [label="Pentatonic scale#Major pentatonic scale"]
+	275671 [label="List of electronic music genres"]
+		2924002 -> 275671
+	13930 [label="House music"]
+		2924002 -> 13930
+	29975266 [label="Flat nine chord"]
+	1494545 [label="List of ragtime composers"]
+		26553 -> 1494545
+	999857 [label="Music of Alberta|Music of Manitoba|Music of Saskatchewan"]
+		442836 -> 999857
+	1275306 [label="Music of Nova Scotia|Music of Prince Edward Island|Music of New Brunswick|Music of Newfoundland and Labrador"]
+		435239 -> 1275306
+	19556 [label="Mode (music)"]
+	10073477 [label="Electroacoustic Improvisation"]
+	224256 [label="Chord (music)|Chord names and symbols (jazz and pop music)"]
+		49171 -> 224256
+	1664363 [label="Consonance and dissonance"]
+		49171 -> 1664363
+	19996 [label=MIDI]
+		9510 -> 19996
+	4252368 [label="Universal key"]
+		18428602 -> 4252368
+	10072012 [label=Goliards]
+		19956 -> 10072012
+	981284 [label="Criticism and sonata form"]
+	65450 [label="Pet Sounds|Sgt. Pepper's Lonely Hearts Club Band"]
+		51503 -> 65450
+	20017 [label="Electronic music|Musique concrète"]
+		329550 -> 20017
+	2058881 [label="Middle Eastern and North African music traditions|Arabic music|Middle Eastern music"]
+		166141 -> 2058881
+	45839 [label="Music sequencer|Drum machine"]
+		9510 -> 45839
+	446771 [label="Hip hop music|Electro (music)"]
+		7966 -> 446771
+	22397005 [label="List of compositions by Ferruccio Busoni|List of adaptations by Ferruccio Busoni|Ferruccio Busoni discography"]
+		202343 -> 22397005
+	2924002 [label="Post-disco|Electronic dance music"]
+	211805 [label="Rave|Rave music"]
+		7966 -> 211805
+	13371576 [label="Post-disco"]
+		2924002 -> 13371576
+	682906 [label="Occitan literature"]
+		63788 -> 682906
+	15225609 [label="List of electronic music festivals"]
+		2924002 -> 15225609
+	4252368 [label="Universal key"]
+	7966 [label="Disco|Euro disco"]
+		2924002 -> 7966
+	499543 [label="Opera in English"]
+		22348 -> 499543
+	1119888 [label="Swing revival"]
+		164887 -> 1119888
+	196567 [label="Coda (music)"]
+	981284 [label="Criticism and sonata form"]
+	11024661 [label="German opera"]
+		22348 -> 11024661
+	721566 [label="Ars subtilior"]
+		19956 -> 721566
+	1519772 [label=Geisslerlieder]
+		19956 -> 1519772
+	162401 [label="Power chord"]
+		1577801 -> 162401
+	39174513 [label="Anhemitonic scale"]
+	1162573 [label="Thirty-two-bar form"]
+	3900599 [label="Recapitulation (music)"]
+	11209941 [label="List of folk festivals"]
+		10623 -> 11209941
+	981281 [label="History of sonata form"]
+	999109 [label="Open tuning"]
+		1577801 -> 999109
+	14508929 [label="List of 20th-century classical composers"]
+		329550 -> 14508929
+	224256 [label="Chord (music)|Consonance and dissonance"]
+	981045 [label="Three-key exposition"]
+	36687628 [label="Regular tunings"]
+		1577801 -> 36687628
+	16727290 [label="Electronic rock|Synthpop|Electro music|House music"]
+		9510 -> 16727290
+	220685 [label="Chicago house"]
+		13930 -> 220685
+	14585877 [label="Futurism (music)"]
+	8249 [label="Definition of music"]
+	20263821 [label="Live electronic music"]
+	259022 [label=IRCAM]
+	2982290 [label=STEIM]
+	32259511 [label=Elektronmusikstudion]
+	158366 [label="Iannis Xenakis|Stochastic music"]
+	43006 [label=Britpop]
+		167409 -> 43006
+	25654967 [label="1979 in jazz"]
+		29786526 -> 25654967
+	292200 [label="Missing fundamental"]
+	1771483 [label="Guitar tunings#Alternative"]
+		1577801 -> 1771483
+	782366 [label="Dark ambient"]
+	23275589 [label="Acid house|Techno|Rave music"]
+		2924002 -> 23275589
+	7098540 [label="Origins of opera"]
+		22348 -> 7098540
+	377234 [label="Solo (music)"]
+	200331 [label=Dhrupad]
+		577590 -> 200331
+	196567 [label="Coda (music)"]
+	65427 [label=Plainsong]
+		19956 -> 65427
+	172540 [label="Roots revival"]
+		10623 -> 172540
+	1502321 [label="Ancient music"]
+		6668778 -> 1502321
+	4639982 [label="Dance-rock"]
+		13371576 -> 4639982
+	1012777 [label="Circuit bending"]
+		9510 -> 1012777
+	25477778 [label="Boogie (genre)"]
+		13371576 -> 25477778
+	4539590 [label="Ambient industrial"]
+	1275964 [label="Italo disco"]
+		13371576 -> 1275964
+	3237687 [label="Greek folk music"]
+		246225 -> 3237687
+	463026 [label="Theme music"]
+	6225 [label="Cantigas de Santa Maria"]
+		19956 -> 6225
+	1803975 [label="Dance-punk"]
+		7966 -> 1803975
+	20263821 [label="Live electronic music|List of music festivals"]
+		15225609 -> 20263821
+	33107185 [label="Music and emotion"]
+	51580 [label=Grunge]
+		167409 -> 51580
+	526089 [label="Dance-pop"]
+		13371576 -> 526089
+	2063313 [label="Euro disco"]
+	25382326 [label="Post-punk"]
+	30436224 [label="Hurrian songs"]
+		1502321 -> 30436224
+	5237926 [label="Russian opera"]
+		22348 -> 5237926
+	7114160 [label="French opera"]
+		22348 -> 7114160
+	224256 [label="Chord (music)|Consonance and dissonance"]
+	20017 [label="Musique concrète"]
+	1771483 [label="Guitar tunings"]
+		425825 -> 1771483
+	6974 [label="Computer music"]
+	3461556 [label="Music of the Trecento"]
+		19956 -> 3461556
+	20017 [label="Musique concrète"]
+	3587071 [label="Liturgical drama"]
+		19956 -> 3587071
+	103295 [label="Binary form"]
+	4116363 [label="Music of ancient Greece"]
+		246225 -> 4116363
+	20662724 [label=Nisiotika]
+		246225 -> 20662724
+	23380132 [label="Paleolithic flutes"]
+	23958411 [label="Techno|Second Summer of Love"]
+		15225609 -> 23958411
+	211805 [label="Rave|Rave music"]
+	13930 [label="House music"]
+		7966 -> 13930
+	8816 [label="Double bass#Tuning"]
+		425825 -> 8816
+	25916 [label="Romantic music"]
+		6668778 -> 25916
+	25382326 [label="Post-punk"]
+	2924002 [label="Post-disco|Electronic dance music"]
+	23275904 [label="Baroque music"]
+		6668778 -> 23275904
+	5288 [label="Classical period (music)"]
+		6668778 -> 5288
+	10890852 [label="Nu-disco"]
+		7966 -> 10890852
+	1803975 [label="Dance-punk"]
+	2263934 [label="Musical language"]
+	421015 [label="Outlaw country"]
+		5247 -> 421015
+	1251240 [label="Aesthetics of music"]
+	753416 [label="Aspect of music"]
+	954290 [label="Live coding"]
+		20263821 -> 954290
+	10890852 [label="Nu-disco"]
+	4332957 [label="Neotraditionalist country"]
+		5247 -> 4332957
+	170906 [label="List of Britpop musicians"]
+		43006 -> 170906
+	10594386 [label="Country soul"]
+		5247 -> 10594386
+	24749912 [label="Truck-driving country"]
+		5247 -> 24749912
+	46511153 [label="List of country music festivals"]
+		5247 -> 46511153
+	1959428 [label="Country pop"]
+		5247 -> 1959428
+	794826 [label="Alt country"]
+		5247 -> 794826
+	90593 [label="Country rock"]
+		5247 -> 90593
+	36687628 [label="Regular tunings"]
+		1771483 -> 36687628
+	25792799 [label="Post-Britpop"]
+		43006 -> 25792799
+	171108 [label="Nashville sound"]
+	220685 [label="Chicago house"]
+		23275589 -> 220685
+	19629960 [label="Music in ancient India"]
+	22148292 [label="Lyres of Ur"]
+	4116363 [label="Music of ancient Greece"]
+	1908072 [label="Australian country music"]
+		5247 -> 1908072
+	33286239 [label="Guqin history"]
+	32776290 [label="Music of Thessaly"]
+		3237687 -> 32776290
+	247746 [label="Music of Egypt"]
+	30436224 [label="Hurrian songs"]
+	1436023 [label="Music of Thrace"]
+		3237687 -> 1436023
+	217662 [label="Music therapy"]
+	4217861 [label="Music of ancient Rome"]
+	7098540 [label="Origins of opera"]
+	366710 [label="Music of Cyprus"]
+		3237687 -> 366710
+	33177536 [label="Music of the Peloponnese"]
+		3237687 -> 33177536
+	1553135 [label="Music of ancient Mesopotamia"]
+	28855967 [label="Music of Epirus"]
+		3237687 -> 28855967
+	20662724 [label=Nisiotika]
+		3237687 -> 20662724
+	413356 [label=Hasapiko]
+		3237687 -> 413356
+	1297518 [label="Music of Crete"]
+		3237687 -> 1297518
+	34966887 [label="Music of the Heptanese|kantádhes"]
+		3237687 -> 34966887
+	7385329 [label="New Simplicity"]
+	12361729 [label="Music of Macedonia (Greece)"]
+		3237687 -> 12361729
+	36044987 [label="Major thirds tuning|All fourths tuning"]
+		1771483 -> 36044987
+	-1 [label="Music of central Greece"]
+		3237687 -> -1
+	702661 [label="Natya Shastra"]
+		19629960 -> 702661
+	20017 [label="Electronic music|Musique concrète"]
+	10659497 [label="Canadian country music|Canadian Country Music Association|Canadian Country Music Hall of Fame"]
+		5247 -> 10659497
+	180178 [label="Detroit techno|Techno"]
+		13930 -> 180178
+	25840 [label="Medieval music|Renaissance music"]
+		6668778 -> 25840
+	13930 [label="House music"]
+	38078804 [label="Hagiopolitan Octoechos"]
+	3586970 [label="Golden age hip hop"]
+		18945847 -> 3586970
+	446771 [label="Hip hop music|Electro (music)"]
+	90183 [label="Altered chord"]
+		224256 -> 90183
+	428269 [label="Suspended chord"]
+		224256 -> 428269
+	32103298 [label="Minimalist music|Post-minimalism"]
+	18673553 [label="Macro analysis"]
+		224256 -> 18673553
+	11656 [label="Figured bass"]
+		224256 -> 11656
+	13922792 [label="Inversion (music)"]
+		224256 -> 13922792
+	9955219 [label="List of music festivals"]
+	497868 [label="Triad (music)"]
+		224256 -> 497868
+	428162 [label="Added tone chord"]
+		224256 -> 428162
+	33899498 [label="Studio d'Essai"]
+	2970361 [label="New Complexity"]
+	648960 [label="Borrowed chord"]
+		224256 -> 648960
+	285709 [label="Latin jazz"]
+		15613 -> 285709
+	40258 [label=Harmony]
+	203442 [label="Seventh chord"]
+		224256 -> 203442
+	954290 [label="Live coding"]
+	3360763 [label="Musical nationalism"]
+	2025792 [label="Music education"]
+		6668778 -> 2025792
+	24686326 [label="20th-century classical music|21st-century classical music"]
+		6668778 -> 24686326
+	171930 [label=Rockabilly]
+	80077 [label=Ethnomusicology]
+	10623 [label="Folk music|List of music festivals"]
+		11209941 -> 10623
+	330217 [label=" Modernism (music)| Postmodern music| Contemporary classical music"]
+		6668778 -> 330217
+	2047446 [label="All fifths tuning|New standard tuning"]
+		1771483 -> 2047446
+	479884 [label="Algorithmic composition"]
+	18428602 [label="Roman numeral analysis"]
+	33899498 [label="Studio d'Essai"]
+	8249 [label="Definition of music"]
+	7873739 [label="Texas country music"]
+		421015 -> 7873739
+	1959428 [label="Country pop"]
+		171108 -> 1959428
+	46511153 [label="List of country music festivals"]
+		1908072 -> 46511153
+	12653751 [label="List of country music performers|List of country performers by era|List of country television and radio shows"]
+		5247 -> 12653751
+	350752 [label="Video game music"]
+	691832 [label="Alternative Rock"]
+	18945847 [label="Hip hop music"]
+	14508929 [label="List of 20th-century classical composers"]
+	1619567 [label="Pontic_Greeks#Music"]
+		3237687 -> 1619567
+	26553 [label=Ragtime]
+	83463 [label=Chiptune]
+		9510 -> 83463
+	2697546 [label="Jazz-funk"]
+		15613 -> 2697546
+	446771 [label="Hip hop music|Electro (music)"]
+	264343 [label="Soul jazz"]
+		15613 -> 264343
+	33899498 [label="Studio d'Essai"]
+	428163 [label="Extended chord"]
+		224256 -> 428163
+	13922792 [label="Inversion (music)"]
+	90183 [label="Altered chord"]
+	497868 [label="Triad (music)"]
+	29789697 [label="1980s in jazz"]
+		15613 -> 29789697
+	6880016 [label="Post-bop"]
+		15613 -> 6880016
+	203442 [label="Seventh chord"]
+	428163 [label="Extended chord"]
+	245846 [label="African music"]
+	498702 [label=" M-Base"]
+		15613 -> 498702
+	648960 [label="Borrowed chord"]
+	428162 [label="Added tone chord"]
+	413621 [label="Persian traditional music"]
+	428269 [label="Suspended chord"]
+	11656 [label="Figured bass"]
+	223014 [label="Indian classical music"]
+	90593 [label="Country rock"]
+	421288 [label="Chinese classical music"]
+	220685 [label="Chicago house"]
+	10594386 [label="Country soul"]
+	1107981 [label="Afro-Cuban jazz"]
+	26094 [label=Romanticism]
+		25916 -> 26094
+	1413783 [label="Italian opera"]
+		22348 -> 1413783
+	421015 [label="Outlaw country"]
+	12502486 [label=MMCP]
+	952994 [label="Orff Schulwerk"]
+	15225609 [label="List of electronic music festivals"]
+		20263821 -> 15225609
+	32418807 [label=eurhythmics]
+	9955219 [label="Country music|List of music festivals"]
+		46511153 -> 9955219
+	1297518 [label="Music of Crete"]
+		246225 -> 1297518
+	48027295 [label="Gordon Music Learning Theory"]
+	33134 [label="World music"]
+	17956553 [label="Popular music pedagogy"]
+	2091468 [label=Octoechos]
+		38078804 -> 2091468
+	382594 [label="Suzuki method"]
+	6127494 [label="Kodály method"]
+	846624 [label=Polystylism]
+		24686326 -> 846624
+	36480970 [label="Boss School of Music"]
+	12212 [label="Gangsta rap|West Coast hip hop"]
+		18945847 -> 12212
+	18673553 [label="Macro analysis"]
+	8802497 [label="Musical historicism"]
+	26094 [label=Romanticism]
+	9955219 [label="List of music festivals"]
+	11209941 [label="List of folk festivals"]
+	7385329 [label="New Simplicity"]
+	6974 [label="Computer music"]
+	846624 [label=Polystylism]
+	172540 [label="Roots revival"]
+	33106889 [label="Culture in music cognition"]
+	2970361 [label="New Complexity"]
+	23921367 [label="music of Canadian cultures"]
+	23270444 [label="20th century classical music"]
+	868505 [label="Neoromanticism (music)"]
+	1861895 [label="Spectral music"]
+	14860795 [label="Asian music"]
+	32103298 [label="Minimalist music|Post-minimalism"]
+	215016 [label="Jazz fusion"]
+		15613 -> 215016
+	28985781 [label="Chord names and symbols (popular music)"]
+		224256 -> 28985781
+	28985781 [label="Chord names and symbols (popular music)"]
+	170259 [label="List of country rock musicians"]
+		12653751 -> 170259
+	743769 [label="smooth jazz"]
+		15613 -> 743769
+	4332957 [label="Neotraditionalist country"]
+	27565688 [label="List of universities with ethnomusicology programmes"]
+	841986 [label="Modernism (music)"]
+	23613 [label="Postmodern music"]
+	171272 [label="East Coast hip hop"]
+		18945847 -> 171272
+	53183 [label="New school hip hop"]
+	166141 [label="Music of Africa"]
+	46511153 [label="List of country music festivals"]
+	5076339 [label="East Coast–West Coast hip hop rivalry"]
+		18945847 -> 5076339
+	3586970 [label="Golden age hip hop"]
+	794826 [label="Alt country"]
+	165952 [label="Doo wop"]
+		25412 -> 165952
+	10659497 [label="Canadian country music|Canadian Country Music Association|Canadian Country Music Hall of Fame"]
+	4185310 [label="Half-diminished seventh chord"]
+		203442 -> 4185310
+	988707 [label="Byzantine music"]
+	3794927 [label="Slash chord"]
+		13922792 -> 3794927
+	83620 [label="Sonata form"]
+	573098 [label="Dominant seventh chord"]
+		203442 -> 573098
+	3189755 [label="set (music)"]
+		13922792 -> 3189755
+	959272 [label="Social effects of rock music"]
+		25412 -> 959272
+	14269670 [label="Harmonic seventh chord"]
+		203442 -> 14269670
+	211805 [label="Rave|Rave music"]
+	805374 [label="Diminished seventh chord"]
+		203442 -> 805374
+	424238 [label="Root (chord)"]
+		13922792 -> 424238
+	1009701 [label="Major seventh chord|Minor seventh chord"]
+		203442 -> 1009701
+	341161 [label="Crunk|Snap music"]
+		18945847 -> 341161
+	11656 [label="Figured bass"]
+		13922792 -> 11656
+	180178 [label="Detroit techno|Techno"]
+	1908072 [label="Australian country music"]
+	23365906 [label="British rock and roll"]
+		25412 -> 23365906
+	20112696 [label="Glitch hop|Wonky (music)"]
+		18945847 -> 20112696
+	3208697 [label="Youth subculture"]
+		25412 -> 3208697
+	889516 [label="Root position|First inversion|Second inversion"]
+		13922792 -> 889516
+	171290 [label="West Coast hip hop"]
+		18945847 -> 171290
+	10319827 [label="House dance"]
+		220685 -> 10319827
+	19996 [label=MIDI]
+	319567 [label="Music of Sri Lanka"]
+	166141 [label="Music of Africa"]
+	7098540 [label="Origins of opera"]
+		1413783 -> 7098540
+	5846986 [label="Awards for world music"]
+	1012777 [label="Circuit bending"]
+	2924002 [label="Electronic dance music"]
+		9510 -> 2924002
+	45839 [label="Music sequencer|Drum machine"]
+	20263821 [label="Live electronic music|List of music festivals"]
+	5076339 [label="East Coast–West Coast hip hop rivalry"]
+	5701245 [label="Romanticism in Spanish literature"]
+		26094 -> 5701245
+	171272 [label="East Coast hip hop"]
+	499543 [label="Opera in English"]
+	11024661 [label="German opera"]
+	35888813 [label="Romanticism in Scotland"]
+		26094 -> 35888813
+	26096 [label="Romantic nationalism"]
+		26094 -> 26096
+	8255091 [label="Romanticism in science"]
+		26094 -> 8255091
+	498702 [label=" M-Base"]
+		215016 -> 498702
+	172540 [label="Roots revival"]
+	428162 [label="Added tone chord"]
+		28985781 -> 428162
+	428269 [label="Suspended chord"]
+		28985781 -> 428269
+	162401 [label="Power chord"]
+		28985781 -> 162401
+	203442 [label="Seventh chord"]
+		28985781 -> 203442
+	20112696 [label="Glitch hop|Wonky (music)"]
+	438397 [label=Polychord]
+		28985781 -> 438397
+	26562683 [label=Dixieland]
+	11209941 [label="List of folk festivals"]
+	2701723 [label="Romanticism in Poland"]
+		26094 -> 2701723
+	497868 [label="Triad (music)"]
+		28985781 -> 497868
+	492517 [label="Upper structure"]
+		28985781 -> 492517
+	12653751 [label="List of country music performers|List of country performers by era|List of country television and radio shows"]
+	743769 [label="Smooth jazz"]
+		215016 -> 743769
+	590810 [label="Ambient house"]
+	83463 [label=Chiptune]
+	428163 [label="Extended chord"]
+		28985781 -> 428163
+	13922792 [label="Inversion (music)"]
+		28985781 -> 13922792
+	13838619 [label="Gangsta Rap"]
+		53183 -> 13838619
+	51503 [label="Progressive rock"]
+	159031 [label="Cover version"]
+		25412 -> 159031
+	49171 [label="Interval (music)"]
+		28985781 -> 49171
+	171930 [label=Rockabilly]
+		25412 -> 171930
+	2924002 [label="Electronic dance music"]
+	25412 [label="Rock and roll|Rock music"]
+	944646 [label="Origins of rock and roll"]
+		25412 -> 944646
+	23921367 [label="music of Canadian cultures"]
+	7114160 [label="French opera"]
+	199915 [label="Jazz Age"]
+	49182501 [label="Music technology"]
+		24686326 -> 49182501
+	48145 [label=Bebop]
+	501892 [label="Introduction (music)"]
+	981045 [label="Three-key exposition"]
+	3900599 [label="Recapitulation (music)"]
+	14124258 [label="Exposition (music)"]
+	196567 [label="Coda (music)"]
+	341161 [label="Crunk|Snap music"]
+	1413783 [label="Italian opera"]
+	555622 [label="Musical development"]
+	41665385 [label="List of pitch class sets"]
+	414788 [label="Set theory (music)"]
+	91199 [label="Industrial music"]
+		211805 -> 91199
+	66038 [label=Breakbeat]
+		211805 -> 66038
+	63106 [label="Modal jazz"]
+	280926 [label="Cool jazz"]
+	32181339 [label="Electro music"]
+		211805 -> 32181339
+	981284 [label="Criticism and sonata form"]
+	34422819 [label="Old school hip hop|Roots of hip hop"]
+		171290 -> 34422819
+	30900 [label="Trance music"]
+		211805 -> 30900
+	6880016 [label="Post-bop"]
+	40798021 [label="Hardcore techno"]
+		211805 -> 40798021
+	1503012 [label="Free tekno"]
+		211805 -> 1503012
+	981281 [label="History of sonata form"]
+	4834143 [label="MIDI Tuning Standard"]
+		19996 -> 4834143
+	4132710 [label="Wind controller"]
+		19996 -> 4132710
+	20436 [label="MIDI timecode"]
+		19996 -> 20436
+	264343 [label="Soul jazz"]
+	498702 [label=" M-Base"]
+	2058080 [label="MIDI keyboard"]
+		19996 -> 2058080
+	202312 [label="General MIDI"]
+		19996 -> 202312
+	285709 [label="Latin jazz"]
+	2697546 [label="Jazz-funk"]
+	3002883 [label="MIDI Show Control"]
+		19996 -> 3002883
+	5553533 [label="MIDI Machine Control"]
+		19996 -> 5553533
+	428522 [label=Scorewriter]
+		19996 -> 428522
+	34422819 [label="Roots of hip hop|Old school hip hop|New school hip hop"]
+		171272 -> 34422819
+	4196416 [label="Comparison of MIDI editors and sequencers"]
+		19996 -> 4196416
+	29789697 [label="1980s in jazz"]
+	24749912 [label="Truck-driving country"]
+	10520601 [label="MIDI usage and applications"]
+		19996 -> 10520601
+	582514 [label=mLAN]
+		19996 -> 582514
+	23712589 [label="Alternative hip hop|Underground hip hop"]
+		171290 -> 23712589
+	1354621 [label="MIDI controller"]
+		19996 -> 1354621
+	1959428 [label="Country pop"]
+	805374 [label="Diminished seventh chord"]
+	14269670 [label="Harmonic seventh chord"]
+	298005 [label="Software synthesizer|Software sampler"]
+		19996 -> 298005
+	1009701 [label="Major seventh chord|Minor seventh chord"]
+	214004 [label="Hard bop"]
+	573098 [label="Dominant seventh chord"]
+	4185310 [label="Half-diminished seventh chord"]
+	317597 [label="Sampler (musical instrument)"]
+		19996 -> 317597
+	275671 [label="List of electronic music genres"]
+	5237926 [label="Russian opera"]
+	12212 [label="Gangsta rap|West Coast hip hop"]
+	40258 [label="Harmony|Melody"]
+		49171 -> 40258
+	3352 [label=Blues]
+		15613 -> 3352
+	23958411 [label="Techno|Second Summer of Love"]
+	171290 [label="West Coast hip hop"]
+	23037 [label="Punk rock"]
+	471427 [label="Selling out"]
+		959272 -> 471427
+	4468473 [label="General MIDI Level 2|Roland GS|Yamaha XG"]
+		19996 -> 4468473
+	10165 [label="Effects unit"]
+		19996 -> 10165
+	23958411 [label=Techno]
+		180178 -> 23958411
+	13371576 [label="Post-disco"]
+	1803975 [label="Dance-punk"]
+	10890852 [label="Nu-disco"]
+	18673553 [label="Macro analysis"]
+	889516 [label="Root position|First inversion|Second inversion"]
+	424238 [label="Root (chord)"]
+	65565 [label="Progressive metal"]
+	4142389 [label="Timeline of progressive rock"]
+	269036 [label="Cent (music)"]
+	1447328 [label="Specific interval | Generic interval"]
+	428163 [label="Extended chord"]
+	11656 [label="Figured bass"]
+	13922792 [label="Inversion (music)"]
+	41695854 [label="List of progressive rock bands"]
+	90183 [label="Altered chord"]
+	224256 [label="Chord (music)|Chord names and symbols (jazz and pop music)"]
+	1664363 [label="Consonance and dissonance"]
+	880124 [label="Interval cycle| Identity (music)"]
+	307119 [label="Music workstation|Music sequencer"]
+		19996 -> 307119
+	3189755 [label="set (music)"]
+	94707 [label=Enharmonic]
+	1658857 [label=" Interval class| Ordered pitch interval"]
+	3794927 [label="Slash chord"]
+	13922792 [label="Inversion (music)"]
+	3594213 [label="Steps and skips"]
+	203442 [label="Seventh chord"]
+	707424 [label="Neo-progressive rock"]
+	11656 [label="Figured bass"]
+	10232935 [label="Diatonic and chromatic"]
+	497868 [label="Triad (music)"]
+	648960 [label="Borrowed chord"]
+	23365906 [label="British rock and roll"]
+	165952 [label="Doo wop"]
+	159031 [label="Cover version"]
+	959272 [label="Social effects of rock music"]
+	3208697 [label="Youth subculture"]
+	27510655 [label="Interval ratio"]
+	40258 [label="Harmony|Melody"]
+	428162 [label="Added tone chord"]
+	944646 [label="Origins of rock and roll"]
+	276919 [label="Italian progressive rock|Krautrock|Berlin School of electronic music|Zeuhl"]
+	428269 [label="Suspended chord"]
+	171930 [label=Rockabilly]
+	1107981 [label="Afro-Cuban jazz"]
+	29788842 [label="1940s in jazz|1950s in jazz"]
+	29786526 [label="1960s in jazz|1970s in jazz"]
+	1107981 [label="Afro-Cuban jazz"]
+	215016 [label="Jazz fusion"]
+	431270 [label="Digital audio workstation"]
+		19996 -> 431270
+	13930 [label="House music"]
+		211805 -> 13930
+	1832085 [label="Post-industrial music"]
+		91199 -> 1832085
+	19596688 [label="Big beat"]
+		66038 -> 19596688
+	4468473 [label="Roland GS"]
+		202312 -> 4468473
+	4372488 [label="General MIDI Level 2"]
+		202312 -> 4372488
+	164887 [label="Swing music|1930s in jazz"]
+	13930 [label="House music"]
+	99040 [label="Free jazz"]
+	13930 [label="House music"]
+	45839 [label="Drum machine"]
+		19996 -> 45839
+	275671 [label="List of trance genres|List of electronic music genres"]
+		30900 -> 275671
+	10791746 [label=Synthesizer]
+		19996 -> 10791746
+	45523625 [label="RTP MIDI"]
+		10520601 -> 45523625
+	16727290 [label="Electronic rock|Synthpop|Electro music|House music"]
+	743769 [label="smooth jazz"]
+	28985781 [label="Chord names and symbols (popular music)"]
+	9955219 [label="Country music|List of music festivals"]
+	26531 [label="Roland Corporation"]
+		317597 -> 26531
+	298005 [label="Software sampler"]
+		317597 -> 298005
+	446771 [label="Electro (music)"]
+	39668 [label=Synclavier]
+		317597 -> 39668
+	13986858 [label="Akai|Akai S900|Akai S1000|Akai S3000XL|Music Production Center"]
+		317597 -> 13986858
+	1275964 [label="Italo disco"]
+	526089 [label="Dance-pop"]
+	7401780 [label="Bass effects"]
+		10165 -> 7401780
+	502615 [label="G-Funk"]
+		12212 -> 502615
+	424238 [label="Root (chord)"]
+	7394057 [label="E-mu Systems|E-mu Emulator|E-mu SP-1200"]
+		317597 -> 7394057
+	25477778 [label="Boogie (genre)"]
+	4639982 [label="Dance-rock"]
+	7966 [label="Disco|Euro disco"]
+	3352 [label=Blues]
+	7527 [label="Concept album"]
+	19956 [label="Medieval music"]
+	284732 [label="Fairlight CMI"]
+		317597 -> 284732
+	3794927 [label="Slash chord"]
+	4185310 [label="Half-diminished seventh chord"]
+	3189755 [label="set (music)"]
+	11656 [label="Figured bass"]
+	14269670 [label="Harmonic seventh chord"]
+	167409 [label="Alternative rock"]
+	1009701 [label="Major seventh chord|Minor seventh chord"]
+	805374 [label="Diminished seventh chord"]
+	23275589 [label="Acid house|Techno|Rave music"]
+	573098 [label="Dominant seventh chord"]
+	4132710 [label="Wind controller"]
+		10791746 -> 4132710
+	220685 [label="Chicago house"]
+	889516 [label="Root position|First inversion|Second inversion"]
+	1189944 [label="Low-frequency oscillation"]
+		10791746 -> 1189944
+	220685 [label="Chicago house"]
+	15225609 [label="List of electronic music festivals"]
+	65450 [label="Pet Sounds|Sgt. Pepper's Lonely Hearts Club Band"]
+	125889 [label="Industrial rock"]
+		16727290 -> 125889
+	9485 [label="Electronic instruments"]
+		16727290 -> 9485
+	13922792 [label="Inversion (music)"]
+	438397 [label=Polychord]
+	428163 [label="Extended chord"]
+	32313645 [label="Musical Instrument Digital Interface"]
+		10791746 -> 32313645
+	840730 [label="Voltage controlled filter"]
+		10791746 -> 840730
+	497868 [label="Triad (music)"]
+	203442 [label="Seventh chord"]
+	428269 [label="Suspended chord"]
+	492517 [label="Upper structure"]
+	126860 [label=Synthpop]
+		16727290 -> 126860
+	23549 [label="Psychedelic rock"]
+		16727290 -> 23549
+	25382326 [label="Post-punk"]
+	2681485 [label="Origins of the blues"]
+	1803975 [label="Dance-punk"]
+	10890852 [label="Nu-disco"]
+	162401 [label="Power chord"]
+	428162 [label="Added tone chord"]
+	2063313 [label="Euro disco"]
+	49171 [label="Interval (music)"]
+	220685 [label="Chicago house"]
+	275878 [label="Modular synthesizer|Harald Bode|Robert Moog|Moog synthesizer|Doepfer A-100"]
+		10791746 -> 275878
+	211805 [label="Rave|Rave music"]
+	13930 [label="House music"]
+	592295 [label="Industrial metal"]
+		125889 -> 592295
+	20263821 [label="Live electronic music|List of music festivals"]
+	4381199 [label="Neo-psychedelia"]
+		23549 -> 4381199
+	2924002 [label="Post-disco|Electronic dance music"]
+	1803975 [label="Indietronica|Dance-punk|Synthpop|Electronicore"]
+		16727290 -> 1803975
+	5792557 [label="Psychedelia|Psychedelic music"]
+		23549 -> 5792557
+	23958411 [label="Techno|Second Summer of Love"]
+	1422825 [label="Psychedelic pop|Psychedelic soul"]
+		23549 -> 1422825
+	4755830 [label="List of synthpop artists"]
+		126860 -> 4755830
+	446771 [label="Hip hop music|Electro (music)"]
+	180178 [label="Detroit techno|Techno"]
+	16727290 [label="Electronic music|Electronic rock"]
+		126860 -> 16727290
+	180178 [label="Detroit techno|Techno"]
+	448251 [label="Variation (music)"]
+}
