@@ -1,7 +1,7 @@
 import asyncio
 import sys
 
-from wiki_api import WikiApi
+from wiki_api import WikiGraph
 
 if len(sys.argv) < 2:
     sys.exit("provide input article!")
@@ -15,5 +15,6 @@ if len(sys.argv) >= 3:
 
 print("start query :", start_query)
 
-loop = asyncio.get_event_loop()
-WikiApi(loop, start_query, deep)
+
+wiki_graph = WikiGraph(start_query, deep)
+wiki_graph.run()

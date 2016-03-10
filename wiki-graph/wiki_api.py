@@ -1,54 +1,73 @@
 import asyncio
 import json
 import os
-import random
 
 import aiohttp
 import re
 from graphviz import Digraph
-WORK_DIR = '/'.join(os.path.dirname(os.path.abspath(__file__)).split('\\')[:-1])
-random.seed()
+WORK_DIR = os.path.split(os.path.dirname(os.path.abspath(__file__)))[0]
+
+
+class WikiGraph:
+    def __init__(self, start_query, max_deep_level=8):
+        self.start_query = start_query
+        self.result_graph = Digraph()
+        self.loop = asyncio.get_event_loop()
+        self.wiki_api = WikiApi(self.loop)
+        self.MAX_DEEP_LEVEL = max_deep_level
+        print(WORK_DIR)
+
+    def run(self):
+        self.loop.run_until_complete(self.process_node(self.start_query, 0))
+        self.save_to_file()
+
+    async def process_node(self, name, level, parent=None):
+        print("start get page, %s , level %s" % (name,level ))
+        page_data = await self.wiki_api.get_page(name)
+        print(" page %s, level %s done" % (name, level))
+
+        self.result_graph.node(page_data[0], name)
+        if parent is not None:
+            self.result_graph.edge(parent, page_data[0])
+
+        if level >= self.MAX_DEEP_LEVEL:
+            return
+
+        sub_tasks = list()
+        for sub_node in self.wiki_api.get_main_articles(page_data):
+            sub_tasks.append(asyncio.Task(self.process_node(sub_node, level+1, page_data[0])))
+        await asyncio.gather(*sub_tasks)
+
+    def save_to_file(self):
+        out_file = WORK_DIR+'/output/%s.gv' % (self.start_query, )
+        self.result_graph.render(out_file, view=True)
+
 
 class WikiApi:
+    """ Class for async getting and parsing wiki pages """
     BASE_URl = 'https://en.wikipedia.org/w/api.php'
     BASE_DICT = dict(format='json', action='query', prop='revisions', rvprop='content')
     MAIN_ARTICLE_REGEXP = re.compile(r'\{\{main\|(.+?)\}\}', re.IGNORECASE)
 
-    def __init__(self, loop, start_query, max_deep_level=8):
-        self.result_graph = Digraph()
-        self.loop = loop
-        self.MAX_DEEP_LEVEL = max_deep_level
-        with aiohttp.ClientSession(loop=self.loop) as session:
-            self.loop.run_until_complete(self.get_page(session, start_query, 0))
-        self.save_to_file(start_query)
+    def __init__(self, loop):
+        self.session = aiohttp.ClientSession(loop=loop)
 
-    def save_to_file(self, name):
-        print(self.result_graph.source)
-        out_file = WORK_DIR+'/output/%s.gv' % (name, )
-        self.result_graph.render(out_file, view=True)
+    def __del__(self):
+        self.session.close()
 
-    async def parse_main_articles(self, text, session, level, parent=None):
-        subtasks = []
-        matches = self.MAIN_ARTICLE_REGEXP.findall(text)
-        for match in matches:
-            subtasks.append(asyncio.Task(self.get_page(session, match, level+1, parent)))
-        await asyncio.gather(*subtasks)
-
-    async def get_page(self,session, query, level, parent=None):
-        await asyncio.sleep(random.randint(1,5))
-        if level >= self.MAX_DEEP_LEVEL:
-            return
-        print("start get page, %s , level %s" % (query,level ))
+    async def get_page(self, query, parent=None):
         request_params = self.BASE_DICT.copy()
         request_params['titles'] = query
-        async with session.get(self.BASE_URl, params=request_params) as response:
-            response_text = await response.text()
-            response_json = json.loads(response_text)
-            response.release()
-            print(" page %s, level %s done" % (query, level))
-            page_id = list(response_json['query']['pages'].keys())[0]
-            #curr_graph_item = WikiPage(query)
-            self.result_graph.node(str(page_id), query)
-            if parent is not None:
-                self.result_graph.edge(str(parent), str(page_id))
-            await asyncio.Task(self.parse_main_articles(response_text, session, level, page_id))
+
+        async with self.session.get(self.BASE_URl, params=request_params) as response:
+            response_json = await response.json()
+            page = response_json['query']['pages'].popitem()
+            return page
+
+    def get_main_articles(self, page):
+        """
+        :param page: JSON object of wiki page
+        :return: list of main titles lins on page
+        """
+        page_text = page[1]['revisions'][0]['*']
+        return self.MAIN_ARTICLE_REGEXP.findall(page_text)
