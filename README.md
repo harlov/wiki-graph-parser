@@ -12,3 +12,14 @@ Output saved to `output` directory.
 
 ## Examples
 You can find some example result pdf's at repository `output` directory
+
+## Contacts
+[send email][email]
+
+[twitter][twitter]
+
+[personal blog][blog]
+
+[twitter]: https://twitter.com/harlov
+[blog]: https://blog.harlov.com
+[email]: mailto:nikita@harlov.com
